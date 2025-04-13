@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm @A5HW1NR
 
 ## About Me
-I'm a security engineer and researcher with a passion for applying data science concepts to security tool datasets. I'm constantly driven by the need to find the root cause of security incidents, believing that "I don't know" is never an acceptable answer to "HOW?". I love uncovering patterns that draw meaningful conclusions and tell the complete story behind every security event.
+I'm a security engineer and researcher with a passion for applying data science concepts to security tool datasets. I'm constantly driven by the need to find the root cause of security incidents. I love uncovering patterns that draw meaningful conclusions and tell the complete story behind every security event.
 
 ## 🛠️ Skills
 - Programming Languages: Python, Go 
