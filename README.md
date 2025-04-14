@@ -28,9 +28,6 @@ I'm a security engineer and researcher with a passion for applying data science 
 ## ⚡ Fun Fact
 I love music and playing Dota 2! When I'm not diving deep into security incidents, you'll find me mashing my keyboard to Dota 2.
 
-## 👋 Try Me!
-[Start the Adventure](#escape-the-office)
-
 <h2 id="escape-the-office">Escape the Office 🏢</h2>
 
 It's 10:47 PM. The office is dark and silent. You're the only one left… or so you thought.
