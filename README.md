@@ -31,7 +31,7 @@ I love music and playing Dota 2! When I'm not diving deep into security incident
 ## 👋 Try Me!
 [Start the Adventure](#escape-the-office)
 
-## [🏢 Escape the Office](#escape-the-office)
+<h2 id="escape-the-office">Escape the Office 🏢</h2>
 
 It's 10:47 PM. The office is dark and silent. You're the only one left… or so you thought.
 
@@ -43,7 +43,7 @@ What do you do?
 
 ---
 
-## [🖨️ Copier](#copier)
+<h2 id="copier">🖨️ Copier</h2>
 
 The copier is whirring… but there's no paper. A paper slowly slides out anyway.
 
@@ -54,16 +54,16 @@ The copier is whirring… but there's no paper. A paper slowly slides out anyway
 
 ---
 
-## [🖥️ Desk](#desk)
+<h2 id="desk">🖥️ Desk</h2>
 
 You return to your desk. Your monitor is on… and there's a file open called `DO_NOT_OPEN.txt`.
 
-- [Open the file](#file)
+- [Open the file](#do_not_opentxt)
 - [Delete it immediately](#delete)
 
 ---
 
-## [🚪 Exit](#exit)
+<h2 id="exit">🚪 Exit</h2>
 
 The door is locked. A keypad glows faintly.
 
@@ -74,7 +74,7 @@ The door is locked. A keypad glows faintly.
 
 ---
 
-## [🗄️ Server Room](#server-room)
+<h2 id="server-room">🗄️ Server Room</h2>
 
 You hide between racks of blinking lights. You hear footsteps…
 
@@ -83,7 +83,7 @@ You hide between racks of blinking lights. You hear footsteps…
 
 ---
 
-## [📁 DO_NOT_OPEN.txt](#file)
+<h2 id="do_not_opentxt">📁 DO_NOT_OPEN.txt</h2>
 
 _"They are watching."_  
 Suddenly the lights go out.
@@ -93,7 +93,7 @@ Suddenly the lights go out.
 
 ---
 
-## [❌ Delete](#delete)
+<h2 id="delete">❌ Delete</h2>
 
 The file won't delete. It duplicates into a folder called `YOU_CANT_LEAVE`.
 
@@ -102,7 +102,7 @@ The file won't delete. It duplicates into a folder called `YOU_CANT_LEAVE`.
 
 ---
 
-## [🔐 Trap](#trap)
+<h2 id="trap">🔐 Trap</h2>
 
 The lights turn red. The alarm blares.  
 You're surrounded.
@@ -113,7 +113,7 @@ You're surrounded.
 
 ---
 
-## [🏃 Freedom](#freedom)
+<h2 id="freedom">🏃 Freedom</h2>
 
 The keypad beeps and the door unlocks.
 
@@ -125,7 +125,7 @@ You burst into the night air.
 
 ---
 
-## [👣 Caught](#caught)
+<h2 id="caught">👣 Caught</h2>
 
 ### You feel a cold breath behind you...
 
