@@ -28,23 +28,10 @@ I'm a security engineer and researcher with a passion for applying data science 
 ## ⚡ Fun Fact
 I love music and playing Dota 2! When I'm not diving deep into security incidents, you'll find me mashing my keyboard to Dota 2.
 
-<style>
-a:hover {
-  background-color:rgba(245, 245, 245, 0.76);
-  padding: 2px 5px;
-  border-radius: 3px;
-  transition: background-color 0.2s ease;
-}
+## 👋 Try Me!
+[Start the Adventure](#escape-the-office)
 
-:target {
-  background-color: yellow;
-  padding: 1em;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
-}
-</style>
-
-# 🏢 Escape the Office {#escape-the-office}
+## [🏢 Escape the Office](#escape-the-office)
 
 It's 10:47 PM. The office is dark and silent. You're the only one left… or so you thought.
 
