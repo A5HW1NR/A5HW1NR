@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm @A5HW1NR
+# Hi there! 👋 I'm @a5hw1nR
 
 ## About Me
 I'm a security engineer and researcher with a passion for applying data science concepts to security tool datasets. I'm constantly driven by the need to find the root cause of security incidents. I love uncovering patterns that draw meaningful conclusions and tell the complete story behind every security event.
